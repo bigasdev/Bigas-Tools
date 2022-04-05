@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System;
+using BigasMath;
 public class Timer {
     public float elapsed;
     public float setTime;
