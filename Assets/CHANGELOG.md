@@ -1,3 +1,6 @@
+# v1.15
+- Added new functions to the timer class: reverseElapsed, Pause() and OnPause();
+- Gitignore
 # v1.1
 - Added the TagQuery, a static script that can handle all the tags you added in the scene.
 ```
